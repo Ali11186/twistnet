@@ -5,7 +5,6 @@ import '../providers/auth_provider.dart';
 import '../providers/tasks_provider.dart';
 import '../theme/app_theme.dart';
 import 'tasks_screen.dart';
-import 'balance_screen.dart';
 import 'redeem_screen.dart';
 
 class HomeScreen extends StatefulWidget {
